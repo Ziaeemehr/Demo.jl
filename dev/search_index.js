@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = Demo","category":"page"},{"location":"#Demo","page":"Home","title":"Demo","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for Demo.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [Demo]","category":"page"},{"location":"#Demo.bar-Tuple{}","page":"Home","title":"Demo.bar","text":"This is a test doc for bar function\n\n\n\n\n\n","category":"method"}]
+}
