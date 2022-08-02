@@ -13,6 +13,5 @@ end
 
 include("file1.jl")
 import .Foo
-# export foo
 
 end
